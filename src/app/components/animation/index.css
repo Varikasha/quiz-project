@@ -1,0 +1,9 @@
+.animation {
+    height: 140px;
+    text-align: center;
+}
+
+.animation svg {
+    font-size: 150px;
+    width: 50px;
+}
